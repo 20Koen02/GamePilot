@@ -1,0 +1,28 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+scipy = "*"
+scikit-learn = "*"
+scikit-image = "*"
+matplotlib = "*"
+tensorflow = "*"
+keras = "*"
+opencv-python = "*"
+opencv-contrib-python = "*"
+pywin32 = "*"
+mss = "*"
+keyboard = "*"
+PySimpleGUI = "*"
+qt-material = "*"
+pyqt6 = "*"
+vgamepad = "*"
+pynput = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
